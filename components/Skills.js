@@ -21,8 +21,8 @@ function Skills() {
 
             <div className="flex flex-wrap justify-center pt-2">
                 <Skill
-                    title="AngularJS"
-                    icon={<FaAngular color="#dc2626" className="mx-auto text-4xl" />}
+                    icon={<FaAngular color="#dc2626" className="mx-5 text-4xl" />}
+                    title="Angular"
                 />
 
                 <Skill
